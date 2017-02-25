@@ -1,5 +1,5 @@
 博文地址：http://write.blog.csdn.net/mdeditor#!postId=51159074
-[TOC]
+
 #前言
 通过对HttpClient的学习，打开了我对后台的理解，在我的眼中，后台不再是依赖前端的存在，它可以是一种无浏览器，无APP界面的存在。这篇博客将尽详细的介绍HttpClient实现网络爬虫。
 
